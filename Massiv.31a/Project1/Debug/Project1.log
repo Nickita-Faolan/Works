@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Никита\Desktop\Projects\Massiv\Project1\Source.c(4,28): error C2057: требуется константное выражение
+C:\Users\Никита\Desktop\Projects\Massiv\Project1\Source.c(4,28): error C2466: невозможно выделить память для массива постоянного нулевого размера
+C:\Users\Никита\Desktop\Projects\Massiv\Project1\Source.c(22,12): error C2057: требуется константное выражение
+C:\Users\Никита\Desktop\Projects\Massiv\Project1\Source.c(22,12): error C2466: невозможно выделить память для массива постоянного нулевого размера
+C:\Users\Никита\Desktop\Projects\Massiv\Project1\Source.c(22,13): error C2133: nums: неизвестный размер
